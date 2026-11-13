@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://faiz-zenith.github.io/canvas-video-studio/">Live Demo</a> ·
   <a href="mailto:faizenith0145@gmail.com">Email</a> ·
-  <a href="www.linkedin.com/in/muhammad-faiz-amanullah">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/muhammad-faiz-amanullah">LinkedIn</a>
 </p>
 
 ---
